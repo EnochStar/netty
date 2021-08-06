@@ -1,0 +1,3 @@
+# Project exclude paths
+/netty_chart_two/target/
+/unit_test/target/
